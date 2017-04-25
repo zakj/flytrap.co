@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nuxt",
+    "dist": "nuxt generate"
+  },
+  "dependencies": {
+    "normalize.css": "^6.0.0",
+    "nuxt": "^0.10.6"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
+  }
+}
